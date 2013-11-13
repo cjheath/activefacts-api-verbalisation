@@ -1,0 +1,6 @@
+require 'activefacts/api'
+require 'activefacts/api/verbalisation/vocabulary'
+require 'activefacts/api/verbalisation/instance'
+require 'activefacts/api/verbalisation/value'
+require 'activefacts/api/verbalisation/entity'
+require 'activefacts/api/verbalisation/constellation'
